@@ -1,2 +1,5 @@
 # c_exercises
-Some exercises and explanations about C language
+
+List of some C exercises taken from Deitel, Deitel: "C ~ How to Program"
+
+Happy Coding!

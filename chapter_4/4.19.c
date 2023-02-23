@@ -45,7 +45,8 @@ int main(void){
                 item_five+=selled_units;
                 break;
             default:
-                printf("ERROR. Enter product number: ");
+                printf("ERROR.\n");
+                break;
         }
 
         printf("Enter product number: ");
